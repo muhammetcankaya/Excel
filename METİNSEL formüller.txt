@@ -1,0 +1,179 @@
+BAHtMETİN:
+HERHANGİ BİR SAYI METNİNİ TAYLANÇAYA ŞEÇİRİR
+ÇOK KULLANILMAYAN BİR METİNSEL FORMÜLDÜR
+
+=BİRLEŞTİR()
+Hücrelerde bulunan metinleri birleştirir 
+eğer birleştirdiğimiz metinler arasına bir ifade yerleştirmek
+istersek onu "ifade veya boşuk" formülün içine yerleştiriyoruz
+örnek vermek gerekirse
+=BİRLEŞTİR(A4;B4) HÜCRELERİ BİRLEŞTİRECEKTİR VEYA
+=BİRLEŞTİR(A4;"-"B4) ARASINA - KOYARAK BİRLEŞTİRECEKTİR
+
+=BUL()
+Herhangi bir metinin başka bir hücrenin içinde kaçıncı 
+sıradan başladığını bize söyler 
+BUL(B5;G7) Bu şekilde kullandığımızda G7 deki metnin içinde
+B5 deki metnin kaçıncı değerde olduğunu söylemektededir mesela
+G7=Ahmet can kaya B5=can
+formülü uygularsak 7 sonucunu bize verecektir
+B5 yerine herhangi bir metin yazabiliriz ayrıca bul fonksiyonu
+büyük ve küçük harf konusunda hassasdır
+BUL(B5;G7;sayı) sayı yazan kısma sayı yazdığımda o index sayısından
+sonra ki kısma bakacaktır
+
+MBUL()
+Bul fonksiyondan farkı yoktur fakat büüyük küçük harf önemsemez
+
+KÜÇÜKHARF()
+Metin dizisindeki büyük harfları küçük harfe çeviri
+
+BÜYÜKHARF()
+Metin dizisindeki küçük harfleri büyük harfe çevirir
+
+YAZIM.DÜZENİ()
+Büyük harf ile metni başlatır
+
+DEĞİŞTİR()
+Herhangi bir hücre içindeki metini değiştirebiliriz 
+index sayısını yazarak hangi aralığı değiştireceğimizi seçebiliriz
+=DEĞİŞTİR(A4;2;3;"ANK")
+A4 hücrenie gir 2. indexten başla ve 3 karakter değiştir 
+ANK olarak
+
+KIRP()
+Her hangi bir hücrede boşluk sayısı fazlaysa onu düzenlemeye yarar
+=KIRP(A4) GİRDİNİZ HÜCREDEKİ BOŞLULARI TEMİZLEYECEKTİR
+
+PARÇAAL()
+Girdiğimiz hücreden veya metinden index sayımızı belirleriz 
+ve kaç tane index parçalayacağız onu belirler
+"ankara" 
+=PARÇAAL("ankara";2;3) ankara metninde 2.indexten başla
+3 karakakter getir
+
+SAĞDAN()
+PARÇAAL fonksiyonun sağdan başlayarak yapar
+SOLDAN()
+PARÇAAL fonksiyonun soldan başlayarak yapar
+
+SAYIYAÇEVİR()
+İstediğimiz tipte olmayan sayıları matematiksel işlem yapılabilecek
+bir sayı haline getirmektedir. 
+
+METNEÇEVİR()
+Biçimini belirleme de yardımcı olur 
+
+UZUNLUK()
+Herhangi bir hücrenin içinde kaç karakter olduğunu söyler
+Boşluklarıda bir karakter olarak algılar.
+
+ÖZDEŞ()	
+iki metni karşılaştırır birebir aynıysa doğru
+değilse yanlış der büyük kçük harf duyarlıdır.
+
+YERİNEKOY()
+METİN;"";"" Metni belirt ilk olarak ilk metni gir ikinci olarak 
+ikinci metni gir o sana değişikliği yapacaktır.
+en sona sayı eklersen eski metni o indexten itibaren aramaya başlar
+
+
+
+
+
+Birleştir 
+Bul 
+Değiştir 
+Kırp
+bunlar önemli sayılır
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

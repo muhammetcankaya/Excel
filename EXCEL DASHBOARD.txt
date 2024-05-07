@@ -1,0 +1,15 @@
+makro kayıt etme 
+işlemi kısaca şöyledir 
+yapacağın bir işlemi veya çoklu işlemi tek bir tuşda yapmanı sağlar
+öncelikle makrolar kısmına geliyorsun ve makro kaydet diyorsun
+ondan sonra işlemine başlıyorsun bu başladığın işlem kayıt altına alınıyor 
+başladığın işlemi bitince kayıt duruyor ve makroya isim atayarak kaydediyorsun 
+sonra geliştirici kısmında ekle kısmından bir buton ekliyorsun 
+ve o butona yaptığın makroyu atıyorsun bundan sonra tek bir 
+iş kalıyor istediğin işi yapan tek bir tuşa sahip oluyorsun
+bu sayede birçok işi tek tuşta yapmış oluyorsun kaydettiğin makro sayesinde
+
+diyelimki bir rapor hazırlayacağız bu rapor ile alakalı 5 tane
+raporumuz var 5 sayfaya bunu yapıp bu beş sayfa arasında geçişleri
+sağlamamız gerekiyorki raporu efektif bir şekilde okuyabilelim
+bunu yapmanın iki yolu vardır biri köprü atama ddiğeri ise makrodur 

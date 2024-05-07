@@ -1,0 +1,53 @@
+do not afraid 
+
+SATIR()
+Herhangi bir hücrenin hangi satırda olduğunu söyler
+
+SÜTUN()
+Herhangi bir hücrenin kaçıncı sütuna denk geldiğini söyler
+
+SATIRSAY()
+Seçtiğimiz satırların kaç tane olduğunu söyler
+
+SÜTUNSAY()
+Seçtiğimiz sütunların adetini söyler
+
+ALANSAY()
+Seçtiğin alanların kaç tane olduğunu söyler
+
+ADRES()(BİRAZ GEREKSİZ GELDİ BANA)
+
+DÜŞEYARA()
+YATAYARA()
+İKİSİNİDE MANTIĞI AYNI BİLİYORSUNNN
+
+DOLAYLI()  
+Bir metin dizesiyle belirtilmiş başvuruyu verir.
+gireceğin şeyin bir metin olması laızm 
+"" içine yazarak metne dönüştürüyoruz
+burası için aradığımız sütünün verisi bize getirir 
+o sütünü adres ile belirtirsek getirmesi kolay olacaktır 
+
+ELAMAN()
+Herhangi bir dizinin içindeki kaçıncı değeri istiyorsan onu sana verir
+BURADA ÇOK YORULMUŞTUM TEKRAR BAK 
+
+İNDİS()
+Belirlediğimiz tablo alanı içinde herhangi sutün ve satır sayılarını 
+girince keşisim noktasını verecektir.
+
+KAÇINCI()
+Burada bir hücre seçtiğimizde o hücrenin yine seçtiğimiz dizinde
+hangi satırda veya hangi sütunda olduğunu bize söylemeye yaracak
+bir fonksiiyondur(indisin tersi)
+
+KAYDIR()
+Seçtiğimiz bir hücrenin belli miktarda sağa veya sola göndermemisizi sağlar
+
+
+KÖPRÜ()
+LİNK ATAMA İŞİ YAPAR
+
+
+
+

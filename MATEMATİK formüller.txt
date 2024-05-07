@@ -1,0 +1,114 @@
+MERHABA ARKADAŞLAR UMARUM HERKESİN KEYFİ YERİNDEDİR.
+
+ALTTOPLAM()
+Bir liste veya veri tabanından işlem yapar
+ilk girdiye işlem tipini secer sonra o hücrelere istediğini yaptırır
+ALPTOPLAM(İŞLEMSEÇ;HÜCRELERİ SEÇ)
+
+RASTGELEARADA()
+Belirttiğiniz sayılar arasında sayı döndürüz sadece tam sayı döndürür
+
+S_SAYI_ÜRET()
+0 İLE 1 ARASINDA SAYI ÜRETİR 
+
+AŞAĞIYUVARLA()
+sayıyı aşağıya yuvarlar
+
+YUKARIYUVARLA()
+Sayıyı yukarı yuvarlar
+
+YUVARLA()
+EN YAKIN SAYIYA YUVARLAR
+
+KYUVARLA()
+Sayıyı yuvarlar fakat onu bölünmesini istediğimiz bir sayıya 
+yuvarlar
+KYUVARLA(SAYI;KATSAYI)
+
+TAMSAYI()
+En yakın tam sayıya yuvarlayacaktır.
+
+LOG10()
+Logaritma 10 tabanında ki sayıları verir sayıyı biz gireriz
+taban 10 dur zaten
+LOG()
+Tabanı ve sayıyı biz belirleriz	
+LN()
+e tabanında sayının llogaritmasını alabiliriz
+
+MUTLAK()
+VERDİĞİMİZ SAYININ MUTLAK DEĞERİNİ ALIR
+
+İŞARET()
+
+İçerisine bir sayı girdiğimizde 
+negatif ise -1
+pozitif ise 1 değerini döndürür
+
+ÇİFT()
+Kendisinden büyük olan çift sayıya yuvarlar
+
+TEK()
+Kendisinden büyük olan tek sayıya yuvarlar
+
+ÇİFTMİ() TEKMİ() 
+DOĞRU VEYA YANLIŞ GÖNDERİR
+
+ÇARPIM()
+BİR SAYI DİZİSİNİ BİR BİRBİRİ İLE ÇARPAR
+
+ÇARPINIM()
+FAKTORİYEL
+
+ÇİFTFAKTÖR()
+FAKTERİYELİ 2 EKSİLTEREK YAPAR
+
+ÜS()
+TABANI e ÜSTÜNÜ BİZ BELİRLERİZ
+KUVVET()
+TABAN VE ÜSTÜ BUNLARI BİZ BELİRLERİZ
+
+BÖLÜM()
+kalansız böler virgülsüz böler yanı	
+9/4=2
+MOD()
+KALANI SÖYLER BÖLME YAPINCA		
+
+Ebob ekok kombinasyon permitasyon işlemlerini yapabiliriz
+
+TOPKARE()
+BAĞIMSIZ DEĞİŞKENLERİN KARELERİNİN TOPLAMINI VERECEKTİR
+
+TOPLA.ÇARPIM()
+SKALER ÇARPIM YAPAR
+
+ETOPLA()
+
+BİR KOŞUL SONUCUNDA TOPLAMA YAPAR
+
+ÇOKETOPLAM()
+
+BUNLAR ÇOK ÖNEMLİ KAFAM ALMADIĞI İÇİN BAKMIYORUM
+ŞU İKİ FORMÜLE TEKRAR BAK 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

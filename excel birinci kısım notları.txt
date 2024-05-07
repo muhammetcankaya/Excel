@@ -1,0 +1,14 @@
+Pareto Analizi 
+for many events roughly %80 of tihe effects come from
+%20 of the causes(Eylemlerin yüzde 20 si sonuçların yüzde 80 
+nini oluşturur)
+pareto analizi yapılırken değerler büyükten küçüğe sıralanır
+Bu analizi yaparken yüzdeler belirlenir kümülatif toplam 
+belirlenmelidir.
+Analizi yaptıktan sonra grafik çıkacaktır o girafikte kamulatüf 
+dağılımın yüzde 80 lik kısmı sorunun büyük kısmıdır
+zaten bu analiz bize sorunun büyük kısmını görmemize yardımcı 
+olur
+her zaman sorun olacak diye birşey yok ornekler değişebilir
+
+

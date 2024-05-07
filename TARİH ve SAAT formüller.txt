@@ -1,0 +1,119 @@
+TARİH()
+İçerisine tarih girersin o anlar
+
+YIL()
+Belirli bir tarihden yıl kısmının çeker
+
+AY()
+Belirli bir tarihten ay kısmını çeker
+
+GÜN()
+Belirli bir tarihten gün kısmını çeker
+
+BUGÜN()
+Parametre istemiyor o günün tarihini verir
+
+ŞİMDİ()
+Tarihi dakika ve saniye olarak verecektir
+
+ZAMAN()
+Saat dakika saniye parametleri ister girdiğimizde saati 
+dijital saat gibi gösterir
+
+SAAT(),DAKİKA(),SANİYE()
+Sadece saat kısmını verir parametre ister
+
+GÜN360()
+İlk tarih ve son tarih alır aradaki gün sayısını verir
+Bir ay 30 gün daima
+GÜNSAY()
+İlk tarih ve son tarih alır aradaki gün sayısını verir
+Aylar 30-31 çeker
+
+HAFTANINGÜNÜ()
+Girdiğimiz tarihin o haftanın hangi gününe tekabul ettiğini bize 
+söylecektir
+2 GİRCEZ
+HAFTASAY()
+Girdiğimiz tarihin kaçıncı hafta olduğunu söyler o yılın
+kaçıncı haftası 
+2 GİRCEZ
+
+İŞGÜNÜ()
+Bizim başlangıç gösterdiğimiz tarihin belirttiğimiz gün sayısını
+dikkkate alarak hafta sonunu çıkartır ve bitiş tarihini verecektir
+(bazen tarih yerine bize sayı verir excel onu hücre tipinden tarih olarak değiştirmemiz yetlidir
+
+İŞGÜNÜ.ULUSL()
+
+
+SERİAY()
+Belirttiğimiz bir tarihten bir veya başka miktarda ay sonrasını verir 
+ve ay sonunu verir pozitif sayı ileri doğru negartif sayı geriye doğru gider
+25 ocak 2 ay ekle 30 mart verir
+SERİTARİH()
+Ay ekler direkt o tarihi verir
+25 ocak 2 ay ekle 25 mart verir
+
+TAMİŞGÜNÜ()
+İki tarih arasında kaç tane iş günü var onu verir
+TAMİŞGÜNÜ.ULUSL()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

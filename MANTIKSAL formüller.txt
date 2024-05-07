@@ -1,0 +1,82 @@
+Şartların yerine getirilmesi getirilmemesi üzere 
+koşullar belirleyerek gerçeklenirse hareket et gerçekleşmezse
+hareket etme gibi kullanılabilir
+yalnız başına kullanımı zor ama diğer fonksiyonlar ile 
+kullanımı kıymetlidir.
+
+DEĞİL()
+Bağımsız değişkeni tersine çevirir 
+koşul veririm koşul doğruysa yanlış çıktısı üretir
+=DEĞİL(24<34) DOĞRUDUR AMA BİZE YANLIŞ SONUC GETİRCEK
+
+DOĞRU()
+ÇAĞIRIRSAK Kutucuğa doğru yazar
+YANLIŞ()
+ÇAĞIRIRSAK hücreye yanlış yazar
+bunları yazarak elde edemeyiz mantıksal bir ifadedir
+
+EĞER()
+Bu fonksiyon ilk parametre olarak bir sınama alır 
+matematiksel bir işlem olabilir mesela excel bunu 
+araştırır doğrulunu ve yanlışlığını bulur zaten
+bulmadan önce sende doğruda kutucuga hangi ifadeyi yazdırayım
+yanlışşa hangi ifadeyi yazdırayım der burada 
+ifadeyi biz tırnak içinde yazarız 
+yazmaz isek doğru veya yanlış olarak kendisi atar
+bulduğu doğrular ve yanlış doğrudur zaten
+=EĞER(25=25;"ifade doğrudur";"ifade yanlıştır")
+yaptığımızda ifade doğrudur sonucu hücreye atanır
+
+EĞERHATA()
+Bir formül kullandığımızda sonuç hatalı çıkarsa
+excele ne yapması gerektiğinni söylediğimiz bir formül
+yapısıdır baya önemlidiri bence mantıksal yer sardı
+EĞERHATA(FONKSİYON;HATALIYSA YAPMAK İSTEDİĞİN)
+
+EĞERYOKSA()
+YAZILAN FONKSİYONDA DEĞER BULUNAMIYORSA YOK YERİNE 
+NE YAZILACAĞINI NE YAPILACAĞINI BİLE SÖYLEYEN İŞLEVDİR
+
+VE()
+Mantıktaki ve bağlacıyla aynıdır
+bir tane yanşış tamımını yanlış gösterir
+VE(SINAMA1,SINAMA2,SINAMA3,SINAMA4) BU SINAMALARDAN
+EN az bir tanesi yanlışsa yanlış döndürür
+
+YADA()
+Bir tane sınama doğru ise doğru sonucu üretir
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
